@@ -1,0 +1,23 @@
+{
+   "name": "ajs-3",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node src/index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/GoldBoy1001/ajs-3.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/GoldBoy1001/ajs-3/issues"
+   },
+   "homepage": "https://github.com/GoldBoy1001/ajs-3#readme",
+   "dependencies": {
+      "@goldboy1001/ajs": "^1.0.0"
+   }
+}
